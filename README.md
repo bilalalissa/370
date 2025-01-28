@@ -1,6 +1,9 @@
 # 370
 Winter 25 ENSE 370, assignments and labs
 
+Note: Last updated:
+- [ Lab 1 ](https://github.com/bilalalissa/370/blob/main/Labs/Lab1/)
+
 - # Assignments
   - ## Assignment 1 -  - Java
     - 
