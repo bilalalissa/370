@@ -1,5 +1,5 @@
 # 370
-Winter 25 ENSE 370
+Winter 25 ENSE 370, assignments and labs
 
 - # Assignments
 - # Labs
