@@ -1,8 +1,8 @@
 # 370
 Winter 25 ENSE 370, assignments and labs
 
-Note: Last updated F. 01-31-2025:
-- [ Assignment 1 ](https://github.com/bilalalissa/370/tree/main/Assignments/asmnt1)
+Note: Last updated F. 02-14-2025:
+- [ Assignment 2 - Factory Robot System ](https://github.com/bilalalissa/370/tree/main/Assignments/asmnt2)
 
 - # Assignments
   - ## Assignment 1 - Java Refresher - Java
@@ -12,9 +12,18 @@ Note: Last updated F. 01-31-2025:
       - [ Person.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt1/Person.java)
       - [ Operator.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt1/Operator.java)
       - [ Customer.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt1/Customer.java)
-      - [ A01bah305.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt1/A01bah305.java)
-  - ## Assignment 2 -  - Java
-    - 
+      - [ A01bah305.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/A01bah305.java)
+  - ## Assignment 2 - Factory Robot System - Java
+    - [ Assignment Document ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/Assignment-A02-Design-Patterns-I.pdf)
+    - Java Code:
+      - [ CuttingRobot.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/CuttingRobot.java)
+      - [ DrillingRobot.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/DrillingRobot.java)
+      - [ AssemblyRobot.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/AssemblyRobot.java)
+      - [ RobotFactory.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/RobotFactory.java)
+      - [ A02bah305.java ( Main Class ) ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/A02bah305.java)
+    - Diagrams - pdf:
+      - [ UseCaseDiagram.pdf ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/UseCaseDiagram.pdf)
+      - [ ClassDiagram.pdf ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/ClassDiagram.pdf)
   - ## Assignment 3 -  - Java
     - 
   - ## Assignment 4 -  - Java
