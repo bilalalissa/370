@@ -142,7 +142,7 @@ RobotFactory --> Robot
 ```
 
 ## Errors & Fix Note (RobotFactory.java):
-If you ran into an erro, like because having an old java version.
+If you ran into errors, like because having an old java version.
 Do the following:
 Replace
 ```
