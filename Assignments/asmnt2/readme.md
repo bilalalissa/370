@@ -71,10 +71,75 @@ Cutting Robot: Storing parts
 ```
 
 ## Use-Case Diagram
-To visualize the **Use-Case** interactions, refer to `usecase.puml`.
+To visualize the **Use-Case** interactions, refer to `PlantUML code`.
+Code:
+```
+@startuml
+actor FactoryController
+
+rectangle "Factory Robot System" {
+    FactoryController --> (Create Cutting Robot)
+    FactoryController --> (Create Drilling Robot)
+    FactoryController --> (Create Assembly Robot)
+
+    (Create Cutting Robot) --> (Fetch Parts)
+    (Create Cutting Robot) --> (Cut Material)
+    (Create Cutting Robot) --> (Store Parts)
+
+    (Create Drilling Robot) --> (Fetch Parts)
+    (Create Drilling Robot) --> (Drill Holes)
+    (Create Drilling Robot) --> (Store Parts)
+
+    (Create Assembly Robot) --> (Fetch Parts)
+    (Create Assembly Robot) --> (Assemble Product)
+    (Create Assembly Robot) --> (Store Product)
+}
+@enduml
+```
 
 ## Class Diagram
-For an overview of **class relationships**, see `class.puml`.
+For an overview of **class relationships**, refer to `PlantUML code`.
+Code:
+```
+@startuml
+class Robot {
+    - String type
+    - String manufacturer
+    - String serialNumber
+    + fetchParts()
+    + doTask()
+    + storeParts()
+}
+
+abstract class CuttingRobot {
+    + doTask()
+}
+
+abstract class DrillingRobot {
+    + doTask()
+}
+
+class AssemblyRobot {
+    + getInstance()
+    + doTask()
+}
+
+class RobotFactory {
+    + createRobot(type, serialNumber)
+}
+
+class FactoryController {
+    + main()
+}
+
+Robot <|-- CuttingRobot
+Robot <|-- DrillingRobot
+Robot <|-- AssemblyRobot
+FactoryController --> RobotFactory
+RobotFactory --> Robot
+
+@enduml
+```
 
 ## Errors & Fix Note (RobotFactory.java):
 If you ran into an erro, like because having an old java version.
