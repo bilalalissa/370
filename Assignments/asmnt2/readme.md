@@ -30,7 +30,6 @@ FactoryController (Main Program)
 ### **1. Clone the Repository**
 ```
 git clone https://github.com/bilalalissa/370/tree/main/Assignments/asmnt2
-cd FactoryRobotSystem
 ```
 
 ### **2. Compile the Java Files**
