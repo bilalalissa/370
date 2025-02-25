@@ -38,6 +38,7 @@ The application models a simple ordering process with the following classes:
 **•**	**ExternalService**: Simulates external logic for pricing and discount calculations.
 
 The code demonstrates how **Order** orchestrates the calls to **OrderLine**, **Product**, **Customer**, and **ExternalService** in a centralized manner to compute the final price of an order.
+[Top](#order-management-system)
 
 ## Features
 
@@ -56,6 +57,7 @@ The code demonstrates how **Order** orchestrates the calls to **OrderLine**, **P
 **•**	**Shipping Cost Calculation**: **ShippingInfo** updates shipping costs based on the order’s total amount.
 
 **•**	**Extensible Design**: The presence of an **ExternalService** class allows you to integrate real external APIs or complex pricing logic in the future.
+[Top](#order-management-system)
 
 ## Class Diagram
 
@@ -141,6 +143,7 @@ CreditCustomer --|> Customer
 
 Or see the implementation here!
 ![Class Diagram](classDiagram.png)
+[Top](#order-management-system)
 
 ## Sequence Diagram
 
@@ -189,6 +192,7 @@ deactivate o
 
 Or see the implementation here!
 ![Sequence Diagram](sequenceDiagram.png)
+[Top](#order-management-system)
 
 ## Installation and Usage
 
@@ -205,6 +209,7 @@ java Main
 ```
 
 This will execute the demo **main** method, creating a sample **Order**, adding a couple of **OrderLine** items, and printing out the calculated total price and shipping cost.
+[Top](#order-management-system)
 
 ## Example Usage
 
@@ -225,8 +230,10 @@ Shipping Total Amount: 49.5
 ```
 
 *(Exact values may vary depending on your discount or pricing logic.)*
+[Top](#order-management-system)
 
 
 ## License
 
 This project is open-source. You may use and modify it according to your needs. If you reuse significant portions, please give credit to the original source.
+[Top](#order-management-system)
