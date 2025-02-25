@@ -138,6 +138,7 @@ OrderLine --> "1" Product
 CreditCustomer --|> Customer
 @enduml
 ```
+![Class Diagram](https://arc.net/l/quote/zsjqeb)
 
 ## Sequence Diagram
 
@@ -186,20 +187,13 @@ deactivate o
 
 ## Installation and Usage
 
-**1.**	**Clone the Repository**
-
-```
-git clone https://github.com/your-username/order-management-system.git
-cd order-management-system
-```
-
-**2.**	**Compile the Java Files**
+**1.**	**Compile the Java Files**
 
 ```
 javac *.java
 ```
 
-**3.**	**Run the Main Class**
+**2.**	**Run the Main Class**
 
 ```
 java Main
