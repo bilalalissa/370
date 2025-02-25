@@ -2,7 +2,7 @@
 Winter 25 ENSE 370, assignments and labs
 
 Note: Last updated T. 02-25-2025:
-- [ Lab 2 - Introduction to UML ](#lab2-introduction-to-uml-Java)
+- [ Lab 2 - Introduction to UML ](#lab2-introduction-to-uml-java)
 
 - # Assignments
   - ## Assignment 1 - Java Refresher - Java
