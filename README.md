@@ -14,7 +14,8 @@ Note: Last updated T. 02-25-2025:
       - [ Operator.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt1/Operator.java)
       - [ Customer.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt1/Customer.java)
       - [ A01bah305.java ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/A01bah305.java)
-      [ Top ](#370)
+
+       [ Top ](#370)
 
   - ## Assignment 2 - Factory Robot System - Java
     - [ Assignment Document ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/Assignment-A02-Design-Patterns-I.pdf)
@@ -27,6 +28,7 @@ Note: Last updated T. 02-25-2025:
     - Diagrams - pdf:
       - [ UseCaseDiagram.pdf ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/UseCaseDiagram.pdf)
       - [ ClassDiagram.pdf ](https://github.com/bilalalissa/370/blob/main/Assignments/asmnt2/ClassDiagram.pdf)
+  
       [ Top ](#370)
 
   - ## Assignment 3 -  - Java
