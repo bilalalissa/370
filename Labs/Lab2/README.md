@@ -138,7 +138,9 @@ OrderLine --> "1" Product
 CreditCustomer --|> Customer
 @enduml
 ```
-![Class Diagram](https://arc.net/l/quote/zsjqeb)
+
+Or see the implementation here!
+![Class Diagram](classDiagram.png)
 
 ## Sequence Diagram
 
@@ -184,6 +186,9 @@ o -> o: set price = finalPrice
 deactivate o
 @enduml
 ```
+
+Or see the implementation here!
+![Sequence Diagram](sequenceDiagram.png)
 
 ## Installation and Usage
 
