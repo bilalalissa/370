@@ -89,4 +89,4 @@ Note: Last updated T. 02-25-2025:
 © 2025 Bilal Alissa. All rights reserved.
 Unauthorized copying, reproduction, or distribution of this material is strictly prohibited.
 
-      [ Top ](#370)
+[ Top ](#370)
