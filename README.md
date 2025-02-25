@@ -1,8 +1,8 @@
 # 370
 Winter 25 ENSE 370, assignments and labs
 
-Note: Last updated F. 02-14-2025:
-- [ Assignment 2 - Factory Robot System ](https://github.com/bilalalissa/370/tree/main/Assignments/asmnt2)
+Note: Last updated T. 02-25-2025:
+- [ Lab 2 - Introduction to UML ](#lab2-introduction-to-uml-Java)
 
 - # Assignments
   - ## Assignment 1 - Java Refresher - Java
@@ -37,8 +37,9 @@ Note: Last updated F. 02-14-2025:
     - [ Lab Document ](https://github.com/bilalalissa/370/blob/main/Labs/Lab1/lab1.pdf)
     - [ Java code ](https://github.com/bilalalissa/370/tree/main/Labs/Lab1/Hangman_v3_final_fixed.java)
     - [ readme.txt ](https://github.com/bilalalissa/370/tree/main/Labs/Lab1/readme.txt)
-  - ## Lab 2 -  - Java
-    - 
+  - ## Lab 2 - Introduction to UML - Java
+    - [ Lab Details -remote link- ](https://github.com/tdoug19/ENSE_370_Lab/blob/main/Lab-2/UMLRefresher.md)
+    - [ Lab link ](https://github.com/bilalalissa/370/blob/main/Labs/Lab2/README.md)
   - ## Lab 3 -  - Java
     - 
   - ## Lab 4 -  - Java
