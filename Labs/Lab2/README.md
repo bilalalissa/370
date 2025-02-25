@@ -62,8 +62,10 @@ The code demonstrates how **Order** orchestrates the calls to **OrderLine**, **P
 ## Class Diagram
 
 Below is the class diagram in PlantUML. You can copy and paste it into any [PlantUML](https://plantuml.com) renderer to visualize it:
-
-```
+<details>
+  <summary>Click to expand the code snippet</summary>
+    
+```UML
 @startuml
 skinparam classAttributeIconSize 0
 
@@ -141,6 +143,8 @@ CreditCustomer --|> Customer
 @enduml
 ```
 
+</details>
+
 Or see the implementation here!
 ![Class Diagram](classDiagram.png)
 [Top](#order-management-system)
@@ -148,8 +152,10 @@ Or see the implementation here!
 ## Sequence Diagram
 
 The sequence diagram below shows how **Order** acts as the central controller when calculating the final price.
-
-```
+<details>
+  <summary>Click to expand the code snippet</summary>
+    
+```UML
 @startuml
 title Centralized Control - calculatePrice()
 
@@ -189,6 +195,7 @@ o -> o: set price = finalPrice
 deactivate o
 @enduml
 ```
+</details>
 
 Or see the implementation here!
 ![Sequence Diagram](sequenceDiagram.png)
