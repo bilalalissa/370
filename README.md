@@ -33,18 +33,22 @@ Note: Last updated T. 02-25-2025:
 
   - ## Assignment 3 -  - Java
     - 
+
       [ Top ](#370)
 
   - ## Assignment 4 -  - Java
     - 
+
       [ Top ](#370)
 
   - ## Assignment 5 -  - Java
     - 
+
       [ Top ](#370)
 
   - ## Assignment 6 -  - Java
     - 
+
       [ Top ](#370)
 
 - # Labs
@@ -52,29 +56,37 @@ Note: Last updated T. 02-25-2025:
     - [ Lab Document ](https://github.com/bilalalissa/370/blob/main/Labs/Lab1/lab1.pdf)
     - [ Java code ](https://github.com/bilalalissa/370/tree/main/Labs/Lab1/Hangman_v3_final_fixed.java)
     - [ readme.txt ](https://github.com/bilalalissa/370/tree/main/Labs/Lab1/readme.txt)
+
       [ Top ](#370)
 
   - ## Lab 2 - Introduction to UML - Java
     - [ Lab Details -remote link- ](https://github.com/tdoug19/ENSE_370_Lab/blob/main/Lab-2/UMLRefresher.md)
     - [ Lab link ](https://github.com/bilalalissa/370/blob/main/Labs/Lab2/README.md)
+
         [ Top ](#370)
 
   - ## Lab 3 -  - Java
     - 
+
       [ Top ](#370)
 
   - ## Lab 4 -  - Java
     - 
+
       [ Top ](#370)
 
   - ## Lab 5 -  - Java
     - 
+
       [ Top ](#370)
 
   - ## Lab 6 -  - Java
     - 
+
       [ Top ](#370)
 
 # License
 © 2025 Bilal Alissa. All rights reserved.
 Unauthorized copying, reproduction, or distribution of this material is strictly prohibited.
+
+      [ Top ](#370)
