@@ -1,6 +1,6 @@
 // File: CarTest.java
 // Author: Bilal Alissa
-// SID: 200384288
+// SID: 
 
 public class CarTest {
     public static void main(String[] args) {
