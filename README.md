@@ -1,8 +1,8 @@
 # 370
 Winter 25 ENSE 370, assignments and labs
 
-Note: Last updated T. 02-25-2025:
-- [ Lab 2 - Introduction to UML ](#lab-2---introduction-to-uml---java)
+Note: Last updated T. 03-11-2025:
+- [ Lab 4 - Decorator Design Pattern ](#lab-4---Decorator-Design-Pattern---java)
 
 - # Assignments
 
@@ -61,7 +61,7 @@ Note: Last updated T. 02-25-2025:
 
   - ## Lab 2 - Introduction to UML - Java
     - [ Lab Details -remote link- ](https://github.com/tdoug19/ENSE_370_Lab/blob/main/Lab-2/UMLRefresher.md)
-    - [ Lab link ](https://github.com/bilalalissa/370/blob/main/Labs/Lab2/README.md)
+    - [ Lab Link ](https://github.com/bilalalissa/370/blob/main/Labs/Lab2/README.md)
 
         [ Top ](#370)
 
@@ -70,8 +70,9 @@ Note: Last updated T. 02-25-2025:
 
       [ Top ](#370)
 
-  - ## Lab 4 -  - Java
-    - 
+  - ## Lab 4 - Decorator Design Pattern - Java
+    - [ Lab Document - remote ](https://github.com/tdoug19/ENSE_370_Lab/tree/main/Lab-4)
+    - [ Lab Link ](https://github.com/bilalalissa/370/tree/main/Labs/Lab4)
 
       [ Top ](#370)
 
